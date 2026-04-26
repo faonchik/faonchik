@@ -35,7 +35,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/faonchik/output/github-contribution-grid-snake-dark.svg" />
+  
 </p>
 
 ![snake](https://raw.githubusercontent.com/faonchik/faonchik/output/github-contribution-grid-snake-dark.svg)
