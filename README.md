@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я faonchik 👋</h1>
+<h1 align="center">faonchik 👋</h1>
 <p align="center">
   Python / React / Next.js developer
 </p>
